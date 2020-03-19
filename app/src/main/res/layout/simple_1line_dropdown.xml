@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:textAppearance="?android:attr/textAppearanceLargePopupMenu"
+    android:singleLine="true"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:ellipsize="marquee"
+    android:background="@color/stronger_grey"
+    android:textColor="@color/white_overlay"
+    android:gravity="center_vertical"
+    android:padding="@dimen/space_20dp"
+    android:text="@string/recovered"
+    />

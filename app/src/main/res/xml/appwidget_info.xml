@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:minWidth="80dp"
+    android:minResizeWidth="80dp"
+    android:minHeight="40dp"
+    android:minResizeHeight="40dp"
+    android:updatePeriodMillis="7200000"
+    android:initialLayout="@layout/initial_widget_layout_dark"
+    android:configure="website.dango.virustickerwidget.ActivityWidgetConfigure"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen"
+    >
+    <!-- it updates every 2h
+        TODO: add
+            android:previewImage="@drawable/preview"
+        -->
+
+
+
+</appwidget-provider>

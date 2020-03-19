@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Virus Ticker Widget</string>
+    <string name="add_widget">Add Widget</string>
+
+
+    <string name="next">Next</string>
+
+    <string name="confirmed">Confirmed</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+
+    <string name="choose_your_country">Choose your Country</string>
+    <string name="type">Type</string>
+    <string name="theme">Theme</string>
+
+    <string name="question_share">Thank you for using this app! \n Have you considered sharing this?</string>
+    <string name="setup_widget">Learn how to setup the widget</string>
+    <string name="useful_websites_header">Some Useful Websites</string>
+    <string name="disclaimer">The operator of the app accepts no liability for external links and makes it clear that it is not his property or his content.</string>
+
+    <string name="johncoene" translatable="false">JohnCoene</string>
+    <string name="jhu_csse" translatable="false">JHU CSSE</string>
+    <string name="who" translatable="false">WHO</string>
+    <string name="rki" translatable="false">Robert Koch Institut</string>
+    <string name="jetzt" translatable="false">Some free initiative</string>
+    <string name="for_germany">For Germany</string>
+
+    <string name="learn_instr_for_most_header">Instructions for most HomeScreens:</string>
+    <string name="learn_instr_for_most_1">1. Hold long on a free space on your home screen</string>
+    <string name="learn_instr_for_most_2">2. Select \'Widgets\'</string>
+    <string name="learn_instr_for_most_3">3. Search in the list for \'Virus Ticker Widget\'</string>
+    <string name="learn_instr_for_most_4">4. Hold long on the widget and drag it to your favourite place</string>
+    <string name="learn_instr_for_most_5">5. Setup your personal widget in the opening Dialog</string>
+    <string name="learn_instr_for_most_6">6. Your ready to go! If you like it, don\'t forget to rate|share it :)</string>
+    <string name="learn_instr_for_others_header">Instructions for other HomeScreens:</string>
+    <string name="learn_instr_for_others_1">Normally, try out different unusual things, search for \'Widgets\' and you will get it</string>
+
+
+    <string name="jhu_map_url" translatable="false">https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61</string>
+    <string name="john_coene_url" translatable="false">https://shiny.john-coene.com/coronavirus/</string>
+    <string name="who_news_url" translatable="false">https://www.who.int/en/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov)</string>
+    <string name="rki_url" translatable="false">https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4</string>
+    <string name="jetzt_url" translatable="false">https://www.coronavirus.jetzt</string>
+
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="website.dango.virustickerwidget.ActivityLauncher"
+    android:orientation="vertical"
+    >
+
+
+    <TextView
+        android:id="@+id/open_chooser"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:text="@string/question_share"
+        android:gravity="center"
+        />
+
+    <View style="@style/divider" />
+
+    <TextView
+        android:id="@+id/open_learn"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:text="@string/setup_widget"
+        android:gravity="center"
+        />
+
+    <View style="@style/divider" />
+
+    <TextView
+        android:id="@+id/headerLinks"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/useful_websites_header"
+        android:gravity="center"
+        />
+
+    <View style="@style/divider" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/open_JHU"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/jhu_csse"
+            android:layout_gravity="center"
+            android:gravity="center"
+            />
+
+        <View style="@style/vert_divider" />
+
+        <TextView
+            android:id="@+id/open_JC"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/johncoene"
+            android:layout_gravity="center"
+            android:gravity="center"
+            />
+    </LinearLayout>
+
+    <View style="@style/divider" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/open_who"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/who"
+            android:layout_gravity="center"
+            android:gravity="center"
+            />
+
+        <View style="@style/vert_divider" />
+
+        <TextView
+            android:id="@+id/open_chooser_germany"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/for_germany"
+            android:layout_gravity="center"
+            android:gravity="center"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

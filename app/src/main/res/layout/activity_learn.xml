@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="website.dango.virustickerwidget.ActivityLearn"
+    android:orientation="vertical"
+    >
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/learn_instr_for_most_header"
+        android:textSize="@dimen/first_widget_line"
+        android:layout_margin="@dimen/space_10dp"
+        />
+
+    <TextView
+        style="@style/list_item"
+        android:text="@string/learn_instr_for_most_1"
+        />
+
+    <TextView
+        style="@style/list_item"
+        android:text="@string/learn_instr_for_most_2"
+        />
+
+    <TextView
+        style="@style/list_item"
+        android:text="@string/learn_instr_for_most_3"
+        />
+
+    <TextView
+        style="@style/list_item"
+        android:text="@string/learn_instr_for_most_4"
+        />
+
+    <TextView
+        style="@style/list_item"
+        android:text="@string/learn_instr_for_most_5"
+        />
+
+    <TextView
+        style="@style/list_item"
+        android:text="@string/learn_instr_for_most_6"
+        />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/learn_instr_for_others_header"
+        android:textSize="@dimen/first_widget_line"
+        android:padding="@dimen/space_10dp"
+        android:layout_marginTop="@dimen/space_20dp"
+        />
+
+
+    <TextView
+        style="@style/list_item"
+        android:text="@string/learn_instr_for_others_1"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/space_10dp"
+        android:text="🍀"
+        android:layout_gravity="center"
+        />
+
+
+
+
+
+</LinearLayout>

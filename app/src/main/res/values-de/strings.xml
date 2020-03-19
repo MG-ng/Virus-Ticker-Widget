@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Virus Ticker Widget</string>
+    <string name="add_widget">Hinzufügen</string>
+
+    <string name="next">Weiter</string>
+
+    <string name="confirmed">Bestätigte</string>
+    <string name="deaths">Tote</string>
+    <string name="recovered">Erholte</string>
+    <string name="dark">Dunkel</string>
+    <string name="light">Hell</string>
+
+    <string name="choose_your_country">Wähle dein Land</string>
+    <string name="type">Art</string>
+    <string name="theme">Aussehen</string>
+
+    <string name="question_share">Danke, dass Sie diese App benutzen! \n Haben Sie erwogen, diese zu teilen?</string>
+    <string name="setup_widget">Lernen Sie, wie Sie das Widget einrichten</string>
+    <string name="useful_websites_header">Einige nützliche Websites</string>
+    <string name="disclaimer">Der Betreiber der App übernimmt keine Haftung für externe Links und stellt klar, dass es sich nicht um sein Eigentum oder seine Inhalte handelt.</string>
+
+    <string name="jetzt" translatable="false">Eine freie Initiative</string>
+    <string name="for_germany">Für Deutschland</string>
+
+    <string name="learn_instr_for_most_header">Anleitungen für die meisten HomeScreens:</string>
+    <string name="learn_instr_for_most_1">1. Halten Sie lange an einem freien Platz auf Ihrem Startbildschirm</string>
+    <string name="learn_instr_for_most_2">2. Wählen Sie \'Widgets\'</string>
+    <string name="learn_instr_for_most_3">3. Suchen Sie in der Liste nach \'Virus Ticker Widget\'</string>
+    <string name="learn_instr_for_most_4">4. Halten Sie das Widget lange fest und ziehen Sie es an Ihre Lieblingsstelle</string>
+    <string name="learn_instr_for_most_5">5. Richten Sie Ihr persönliches Widget in dem sich öffnenden Dialog ein</string>
+    <string name="learn_instr_for_most_6">6. Sie sind bereit zu starten! Wenn es Ihnen gefällt, vergessen Sie nicht, es zu bewerten|teilen. :)</string>
+    <string name="learn_instr_for_others_header">Anleitungen für andere HomeScreens:</string>
+    <string name="learn_instr_for_others_1">Normalerweise probieren Sie verschiedene ungewöhnliche Dinge aus, suchen nach \'Widgets\' und werden es finden.</string>
+
+
+</resources>
