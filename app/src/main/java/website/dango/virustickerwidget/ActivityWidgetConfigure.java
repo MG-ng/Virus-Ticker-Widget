@@ -220,6 +220,11 @@ public class ActivityWidgetConfigure extends Activity implements View.OnClickLis
     };
 
 
+    /**
+     * Extracts the location of a line of csv got from the github repo by johns hopkins
+     * @param line contains csv, ex. lat, lng, deaths, recovers, confirmed, etc…
+     * @return the location
+     */
     public static String extractLocation( String line ) {
         String country = "";
         if( line.startsWith( "\"" ) )
