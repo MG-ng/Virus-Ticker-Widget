@@ -227,10 +227,10 @@ public class ActivityWidgetConfigure extends Activity implements View.OnClickLis
      */
     public static String extractLocation( String line ) {
         String country = "";
-        if( line.startsWith( "\"" ) )
-            country = line.split( "\"" )[ 1 ];
+        if( line.endsWith( "\"" ) )
+            country = line.split( "\"" )[ line.split( "\"" ).length -1 ];
         else
-            country = line.split( "," )[ 0 ];
+            country = line.split( "," )[ line.split( "," ).length -1 ];
         Log.w( TAG, "CountryB = " + country );
         if( country.isEmpty() ) country = line.split( "," )[ 1 ];
         Log.w( TAG, "CountryA = " + country );
