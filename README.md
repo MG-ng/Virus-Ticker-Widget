@@ -10,3 +10,7 @@ Also, you can view popular websites in a fullscreen in-website WebView to see mo
 
 
 Feedback is welcomed!
+
+
+UPDATE
+Due to some format changes in the repository of the JHU the widgets are currently not working.
